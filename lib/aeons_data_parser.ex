@@ -15,4 +15,8 @@ defmodule AeonsDataParser do
   def hello do
     :world
   end
+
+  def main() do
+    Parser.main()
+  end
 end

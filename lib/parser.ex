@@ -75,7 +75,8 @@ defmodule Parser do
       },
     }
 
-    IO.inspect(resultMap)
+    json = Poison.encode!(resultMap)
+    IO.puts(json)
   end
 end
 

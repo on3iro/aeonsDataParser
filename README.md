@@ -1,21 +1,4 @@
 # AeonsDataParser
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `aeons_data_parser` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:aeons_data_parser, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/aeons_data_parser](https://hexdocs.pm/aeons_data_parser).
-
+This is just a little toy project to get some more experience with elixir and
+parse some data I need for another application...
